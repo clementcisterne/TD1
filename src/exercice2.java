@@ -1,4 +1,4 @@
-public class exercice2 extends Thread{
+public class exercice2 extends Thread {
 
 	public int loop;
 	public String name;
